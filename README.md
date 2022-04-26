@@ -44,7 +44,7 @@ Benchmarks for the Diginetica dataset can be found on the [CIKM Cup 2016 Track 2
 
 ### H&M Personalized Recommendations Experiment
 
-In order to run this experiment, first you must download the necessary data from Kaggle, you can connect to the API by running the following command:
+In order to run this experiment, first you must download the necessary data from Kaggle. To do this you'll need to get a token for the API so you will need to follow the steps under the authentication section of [Kaggle's Public API documentation](https://www.kaggle.com/docs/api#getting-started-installation-&-authentication). Once you have the required json file (make sure it's in the root folder), you can connect to the API by running the following command:
 
 ```bash
 pip install kaggle
