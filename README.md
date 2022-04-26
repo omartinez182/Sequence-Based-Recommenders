@@ -10,7 +10,7 @@ In this repository we evaluate two models with 2 different datasets using the Re
 ## Installation
 
 ```bash
-git clone https://github.com/RUCAIBox/RecBole.git && cd RecBole
+git clone https://github.com/omartinez182/Sequence-Based-Recommenders.git && cd Sequence-Based-Recommenders
 pip install -e . --verbose
 ```
 
