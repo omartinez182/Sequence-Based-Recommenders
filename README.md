@@ -6,7 +6,7 @@
 
 In this repository we evaluate two models with 2 different datasets using the RecBole framework, which is developed based on Python and PyTorch for reproducing and developing recommendation algorithms in a unified, comprehensive and efficient framework.
 
-This repository was forked from the [RecBole](https://github.com/RUCAIBox/RecBole) GitHub repository, and our main contribution is the script for the H&M Dataset experimentation and some slight modifications to the session-based recommender for the DIGINETICA dataset for demonstration/benchmarking purposes.
+This repository was forked from the [RecBole](https://github.com/RUCAIBox/RecBole) GitHub repository, and our main contribution is the script for the [H&M dataset experiment](https://github.com/omartinez182/Sequence-Based-Recommenders/blob/main/run_example/h_m_rec_experiment.py) and some slight modifications to the session-based recommender for the DIGINETICA dataset for demonstration/benchmarking purposes.
 
 
 ## Installation
