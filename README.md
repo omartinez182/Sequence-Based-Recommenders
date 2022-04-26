@@ -64,7 +64,7 @@ python run_example/h_m_rec_experiment.py
 
 
 ## Citations
-[H&M](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/code?competitionId=31254&searchQuery=sequence)
+[H&M](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/code?competitionId=31254&searchQuery=sequence) & 
 [RecBole](https://arxiv.org/abs/2011.01731):
 ```
 @article{recbole,
