@@ -45,8 +45,8 @@ if __name__ == '__main__':
         'alias_of_item_id': ['item_id_list'],
         'topk': [20],
         'epochs': 1,
-        'metrics': ['NDCG'],
-        'valid_metric': 'NDCG@20'
+        'metrics': ['MAP'],
+        'valid_metric': 'MAP@12'
     }
 
     config = Config(model=args.model, dataset=f'{args.dataset}', config_dict=config_dict)
