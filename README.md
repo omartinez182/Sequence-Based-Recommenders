@@ -39,7 +39,7 @@ If you want to change the models, just run the script by setting additional comm
 python run_example/session_based_rec_experiment.py --model=[model_name]
 ```
 
-Benchmarks for the Diginetica dataset can be found on the [CIKM Cup 2016 Track 2: Personalized E-Commerce Search Challenge](https://competitions.codalab.org/competitions/11161#learn_the_details-evaluation) under the evaluation tab and the related work sections, an example would be the paper [Improving One-Class Collaborative Filtering by Incorporating Rich User Information](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.7135&rep=rep1&type=pdf).
+Benchmarks for the Diginetica dataset can be found on the [CIKM Cup 2016 Track 2: Personalized E-Commerce Search Challenge](https://competitions.codalab.org/competitions/11161#results) under the results tab and the related work sections, an example would be the paper [Improving One-Class Collaborative Filtering by Incorporating Rich User Information](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.7135&rep=rep1&type=pdf).
 
 
 ### H&M Personalized Recommendations Experiment
